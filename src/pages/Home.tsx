@@ -4,7 +4,7 @@ import { useLocation } from "react-router-dom";
 import { SITE_URL } from "../seo/siteMeta";
 import { SEO } from "../seo/SEO";
 import SectionOne from "../components/SectionOne";
-import SectionTwo from "../components/SectionTwo";
+import SectionTwo from "../components/Sectiontwo";
 import SectionThree from "../components/SectionThree";
 import SectionFour from "../components/SectonFour";
 import SectionFive from "../components/SectionFive";
