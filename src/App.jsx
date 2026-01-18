@@ -1,5 +1,5 @@
 import { Route, Routes, useLocation,} from "react-router-dom";
-import Footer from "./components/Footer";
+import Footer from "./components/footer";
 import Home from "./pages/Home";
 import AOS from "aos";
 import "aos/dist/aos.css";
