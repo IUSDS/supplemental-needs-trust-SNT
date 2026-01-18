@@ -3,7 +3,7 @@ import React from "react";
 
 // Replace this with your real logo path later (e.g. "/logo.svg")
 const EMPTY_LOGO_SRC =
-  "/og-default.png";
+  "/thumbnail.png";
 
   // A11y: darker gold tones for text on white (keeps brand feel, passes contrast)
 const GOLD_TEXT_STRONG = "#8A5C12";
