@@ -1,0 +1,35 @@
+|-- .gitignore
+|-- eslint.config.js
+|-- index.html
+|-- package-lock.json
+|-- package.json
+|-- public
+    |-- favicon.png
+    |-- hero_section.webp
+    |-- robots.txt
+    |-- section5.webp
+    |-- section_three.webp
+    |-- thumbnail.png
+    |-- vite.svg
+|-- README.md
+|-- src
+    |-- App.jsx
+    |-- assets
+        |-- react.svg
+    |-- components
+        |-- CTASecton.jsx
+        |-- footer.jsx
+        |-- SectionFive.jsx
+        |-- SectionOne.jsx
+        |-- SectionThree.jsx
+        |-- Sectiontwo.jsx
+        |-- SectonFour.jsx
+    |-- index.css
+    |-- main.jsx
+    |-- pages
+        |-- Home.tsx
+    |-- seo
+        |-- SEO.jsx
+        |-- siteMeta.js
+|-- vercel.json
+|-- vite.config.js

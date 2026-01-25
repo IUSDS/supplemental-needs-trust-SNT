@@ -8,6 +8,7 @@ import SectionTwo from "../components/Sectiontwo";
 import SectionThree from "../components/SectionThree";
 import SectionFour from "../components/SectonFour";
 import SectionFive from "../components/SectionFive";
+import CTASection from "../components/CTASecton";
 
 // const homeJsonLd ={}
 
@@ -27,6 +28,7 @@ export default function Home() {
       <SectionOne />
       <SectionTwo />
       <SectionThree />
+      <CTASection />
       <SectionFour />
       <SectionFive />
     </div>

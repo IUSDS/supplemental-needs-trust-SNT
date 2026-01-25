@@ -3,11 +3,11 @@ import { motion, useReducedMotion } from "framer-motion";
 import { ShieldCheck, FileCheck2, HeartHandshake, Users, Sparkles } from "lucide-react";
 
 const benefits = [
-  { icon: ShieldCheck, text: "Supports expenses beyond basic government coverage", tone: "gold", aosDelay: 0 },
-  { icon: FileCheck2, text: "Protects access to public assistance programs", tone: "green", aosDelay: 80 },
-  { icon: HeartHandshake, text: "Helps improve quality of life", tone: "goldSoft", aosDelay: 160 },
-  { icon: Users, text: "Allows families to plan responsibly for future needs", tone: "greenSoft", aosDelay: 240 },
-  { icon: Sparkles, text: "Reduces the risk of benefit disqualification", tone: "gold", aosDelay: 320 },
+  { icon: ShieldCheck, text: "Protects eligibility for government assistance", tone: "gold", aosDelay: 0 },
+  { icon: FileCheck2, text: "Prevents loss of government benefits", tone: "green", aosDelay: 80 },
+  { icon: HeartHandshake, text: "Allows funds to be used for care, support, and quality-of-life expenses", tone: "goldSoft", aosDelay: 160 },
+  { icon: Users, text: "Helps families plan for long-term financial security", tone: "greenSoft", aosDelay: 240 },
+  { icon: Sparkles, text: "Ensures assets are managed and distributed properly", tone: "gold", aosDelay: 320 },
 ];
 
 const toneStyles = {
